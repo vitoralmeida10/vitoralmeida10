@@ -49,8 +49,8 @@
 
 <div align="center">
   <a href="https://github.com/vitoralmeida10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoralmeida10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoralmeida10&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitoralmeida10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoralmeida10&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <br>
 <br>
